@@ -27,10 +27,7 @@
  https://tools.ietf.org/html/rfc6184
 
 **参考实现ffmpeg**
-
  libavformat
- 
   --> rtpenc_h264_hevc.c
-  
-      --> ff_rtp_send_h264_hevc()
+   --> ff_rtp_send_h264_hevc()
       
