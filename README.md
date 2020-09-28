@@ -3,6 +3,8 @@
 
 #### 介绍
 https://www.jianshu.com/p/efc5ef2113da
+https://www.jianshu.com/p/5aa012b76951
+https://tools.ietf.org/html/rfc6184
 
 #### 软件架构
 软件架构说明
