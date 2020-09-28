@@ -24,9 +24,10 @@ https://www.jianshu.com/p/5aa012b76951
 
 参考技术文档：
 
- https://tools.ietf.org/html/rfc6184
+https://tools.ietf.org/html/rfc6184
 
-参考实现ffmpeg
+参考实现ffmpeg:
+
 libavformat
  --> rtpenc_h264_hevc.c
   --> ff_rtp_send_h264_hevc()
